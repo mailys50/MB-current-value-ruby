@@ -1,5 +1,10 @@
 # Explicación del Programa
-- instalé Ruby la versión recomendada,
+- instalé Ruby la versión recomendada en la pagina:  [Descargar Ruby]( https://www.ruby-lang.org/en/), segun tu sistema operativo: 
+[Linux-rbenv]( https://github.com/rbenv/rbenv),
+[Linux-RVM]( http://rvm.io/),
+[macOS-rbenv]( https://github.com/rbenv/rbenv),
+[macOS-RVM](http://rvm.io/),
+[Windows]( https://rubyinstaller.org/)
 - instalé rest-client , para consumir la Api con el comando " gem install rest-client"
 - Requerí los modulos necesarios para consumir la Api,
 - declaré una variable "dominio" y un hash con los id de cada portafolio para manejar mejor las url,
