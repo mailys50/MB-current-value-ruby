@@ -1,0 +1,19 @@
+{
+  "name": "mb-current-value-ruby",
+  "version": "1.0.0",
+  "description": "Programa para calcular valor actual de la inversión",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mailys50/MB-current-value-ruby.git"
+  },
+  "author": "Mailys Brizuela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mailys50/MB-current-value-ruby/issues"
+  },
+  "homepage": "https://github.com/mailys50/MB-current-value-ruby#readme"
+}
