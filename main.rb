@@ -66,8 +66,7 @@ if $rate_type == '1'
   response = RestClient.get url
   result = JSON.parse response.to_str
   # obtener valor unitario de la acción
-  price = result['data'][0]['attributes']['price']
-  puts price
+
   # calculo del valor actual
   c = $monto.to_f
   i = rates_uno.to_f
